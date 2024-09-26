@@ -1,0 +1,106 @@
+- class_name: 关于页
+  subtitle: 芸芸众生, 而我只是一粒星空下的尘埃✨
+  avatarImg: https://img.200038.xyz/api/file/85372f44f67016c27d535.png
+  avatarSkills:
+    left:
+      - 🤖️ 晨曦初露映山川
+      - 🔍 微风轻拂送幽兰
+      - 🏠 水面涟漪波光闪
+      - 🔨 枝头鸟鸣唤清欢
+    right:
+      - 白云悠悠随意舞 🤝
+      - 芳草萋萋铺翠毯 🏃
+      - 时光流转不复返 🧱
+      - 心中芬芳永不散 💢
+  name: 一个热爱东方月初的小混子
+  description: 小混子、油头满面
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: 家里蹲大学
+        color: "#357ef5"
+      - desc: 没有什么特长
+        color: "#357ef5"
+      - desc: 特长是睡觉
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png      
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，深圳市
+    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
+    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2002
+    selfInfoTips2: 一个热爱东方月初的小混子
+    selfInfoContent2: 一个热爱东方月初的小混子
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 一个热爱东方月初的小混子👨‍🎓
+  personalities:
+    author_name: 大混子
+    personality_type: ESFJ-A
+    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 生活很苦，
+    maxim_bottom: 未来可期。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: "UID: 124668904"
+    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 狐妖小红娘
+        href: 
+        cover: https://serv.200038.xyz/2024/09/19/168135.webp
+      - name: 龙珠超
+        href: 
+        cover: https://serv.200038.xyz/2024/09/19/194722.webp
+      - name: 火影
+        href: 
+        cover: https://serv.200038.xyz/2024/09/19/227239.webp
+      - name: 一剑
+        href: 
+        cover: https://serv.200038.xyz/2024/09/19/715534.webp
+      - name: 妖尾
+        href: 
+        cover: https://serv.200038.xyz/2024/09/19/038019.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 动漫偏好
+    music_title: 
+    music_bg: https://serv.200038.xyz/2024/09/19/704241.webp
+    music_link: /music
+  

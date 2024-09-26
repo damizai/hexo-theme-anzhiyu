@@ -1,0 +1,84 @@
+/* 局部css优化 */
+
+.categoryBar-list {
+  max-height: 400px;
+}
+
+.clock-row {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*3s为加载动画的时间，1为加载动画的次数，ease-in-out为动画效果*/
+
+#page-header,
+#web_bg {
+  -webkit-animation: imgblur 2s 1 ease-in-out;
+  animation: imgblur 2s 1 ease-in-out;
+}
+
+@keyframes imgblur {
+  0% {
+      filter: blur(5px);
+  }
+  100% {
+      filter: blur(0px);
+  }
+}
+
+/*适配使用-webkit内核的浏览器 */
+
+@-webkit-keyframes imgblur {
+  0% {
+      -webkit-filter: blur(5px);
+  }
+  100% {
+      -webkit-filter: blur(0px);
+  }
+}
+.table-wrap img {
+  margin: .6rem auto .1rem !important;
+}
+
+
+
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(https://img.200038.xyz/api/file/8351c2c17dc147af8d7e6.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(https://img.200038.xyz/api/file/8351c2c17dc147af8d7e6.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+
+
+ /* 鼠标样式 */
+
+ body {
+  cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+  display: block
+}
+
+a,
+button,
+img {
+  cursor: url(https://bu.dusays.com/2022/05/17/6283c376afcfc.png), auto
+}
+
+
+#welcome-info {
+  overflow: hidden;
+  border-radius: 14px;
+  --kouseki-welcome-color: #49B1F5;
+  --kouseki-ip-color: #49B1F5;
+  --kouseki-gl-size: 16px!important;
+}

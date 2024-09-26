@@ -1,0 +1,179 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-09022337.webp
+  top_background: https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-09022337.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://serv.200038.xyz/2024/09/19/064237.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-09022337.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-09022337.webp
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://serv.200038.xyz/2024/09/19/578021.webp
+  cover: https://serv.200038.xyz/2024/09/19/578021.webp
+  album_list:
+    - date: 2024-09-20
+      content: 金克斯
+      image:
+        - https://serv.200038.xyz/2024/09/16/825387.webp
+
+- class_name: 小白猫
+  path_name: /xiaobai
+  type: 1
+  description: 这里存放的是有关我家里的小白猫。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://serv.200038.xyz/2024/09/18/863444.webp
+  cover: https://serv.200038.xyz/2024/09/19/722451.webp
+  album_list:
+    - date: 2022-09-20
+      content: 小白猫
+      image:
+        - https://serv.200038.xyz/2024/09/22/553251.webp
+        - https://serv.200038.xyz/2024/09/22/978371.webp
+        - https://serv.200038.xyz/2024/09/22/101332.webp
+        - https://serv.200038.xyz/2024/09/22/720688.webp
+        - https://serv.200038.xyz/2024/09/22/775729.webp
+    - date: 2023-09-20
+      content: 小白猫
+      image:        
+        - https://serv.200038.xyz/2024/09/22/626174.webp
+        - https://serv.200038.xyz/2024/09/22/789587.webp
+        - https://serv.200038.xyz/2024/09/22/417873.webp
+        - https://serv.200038.xyz/2024/09/22/402111.webp
+    - date: 2024-09-20
+      content: 小白猫
+      image:        
+        - https://serv.200038.xyz/2024/09/22/737864.webp
+        - https://serv.200038.xyz/2024/09/22/631361.webp
+        - https://serv.200038.xyz/2024/09/22/383786.webp
+
+- class_name: 喜欢的壁纸
+  path_name: /bizhi
+  type: 1
+  description: 这里存放的是有关我喜欢的壁纸。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2511.webp
+  cover: https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2511.webp
+  album_list:
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2511.webp
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/169.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-09022337.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-11092913.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-071733054.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-090223371.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-090223373.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-101438331.webp
+
+    - date: 2024-09-20
+      content: 壁纸
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-101438333.webp
+
+    - date: 2024-09-20
+      content: 壁纸2
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts1.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts3.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts3.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts5.webp
+
+
+    - date: 2024-09-20
+      content: 壁纸2
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts6.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts7.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/posts/posts8.webp
+        
+    - date: 2024-09-20
+      content: 壁纸3
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-0717330523.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-0717330528.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-0717330529.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/2023-09-0717330530.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/213213213.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/13343218141399794.webp
+
+    - date: 2024-09-20
+      content: 壁纸5
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/13343718294354618.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/13344319661924392.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/13344348568275536.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/13344516499284892.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2745.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2589.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2784.webp 
+
+    - date: 2024-09-20
+      content: 壁纸6
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_8498.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/bg1.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/bg2.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_1329.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_1337.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_1362.webp
+            
+    - date: 2024-09-20
+      content: 壁纸8
+      image:
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_1679.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2479.webp
+        - https://cdn.cbd.int//naokuo-blog@1.2.12/img/IMG_2511.webp

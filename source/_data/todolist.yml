@@ -1,0 +1,33 @@
+# seat控制清单在左栏还是右栏显示，completed控制是否已完成
+- class_name: 想做的项目
+  seat: left
+  todo_list:
+    - content: 主页
+      completed: false
+    - content: 小程序
+      completed: false
+
+- class_name: 想看的书
+  seat: left
+  todo_list:
+    - content: 《钢铁是怎样炼成的》
+      completed: false
+    - content: 《怎么才能升天》
+      completed: false
+
+- class_name: 想买的东西
+  seat: right
+  todo_list:
+    - content: 东西
+      completed: true
+    - content: 迷你小汽车
+      completed: true
+
+- class_name: 想学的技术
+  seat: right
+  todo_list:
+    - content: 太多了
+      completed: false
+    - content: 学不会。哈哈哈
+      completed: false
+
